@@ -1,9 +1,9 @@
 class Proton < Formula
   desc "CLI static site builder using Twig, Markdown, and YAML"
   homepage "https://foundationcss.com/proton"
-  url "https://github.com/foundation/proton/releases/download/v0.11.0/proton"
-  sha256 "e02f08fbf0eefa2d33583c153b7316cd392faf1c5a0d8f8966e51eb92530409d"
-  version "v0.11.0"
+  url "https://github.com/foundation/proton/releases/download/v0.12.0/proton"
+  sha256 "e8df8ce0cfe2de44c8095621213cb0714f25b109c4501703bf04c744293169f2"
+  version "v0.12.0"
 
   depends_on "php"
 
